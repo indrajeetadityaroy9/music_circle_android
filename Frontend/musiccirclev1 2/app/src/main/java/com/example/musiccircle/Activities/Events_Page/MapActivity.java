@@ -164,7 +164,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
         GeoApiContext geoApiContext = new GeoApiContext();
         return geoApiContext
                 .setQueryRateLimit(3)
-                .setApiKey("AIzaSyAeQDWbXoxZbrGJC1ihuNX9zlgYM_Lq_64")
+                .setApiKey("")
                 .setConnectTimeout(10, TimeUnit.SECONDS)
                 .setReadTimeout(30, TimeUnit.SECONDS)
                 .setWriteTimeout(10, TimeUnit.SECONDS);
