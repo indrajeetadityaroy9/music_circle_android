@@ -2,7 +2,7 @@
     <string name="app_name">MusicCircle</string>
     <string name="nav_drawer_open">Open nav drawer</string>
     <string name="nav_drawer_close">Close nav drawer</string>
-    <string name="google_map_api_key">AIzaSyAeQDWbXoxZbrGJC1ihuNX9zlgYM_Lq_64</string>
+    <string name="google_map_api_key"></string>
 
     <!--    Notification Strings-->
     <string name="play_music_channel_name">play music channel</string>
