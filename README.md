@@ -12,21 +12,18 @@ The Music Circle project consists of two main components:
 
 ### Backend Architecture
 
-#### Technologies
-- Java 8
-- Spring Boot 2.4.2
+#### Stack
+- Java
+- Spring Boot
 - MySQL
 - WebSocket
 - Swagger/SpringFox
 - JUnit & Mockito for testing
 
 #### Features
-- REST APIs for user management
+- REST API services for User management, Event management, Group creation and management and Playlist handling
 - Music file storage and streaming
 - Real-time social features using WebSocket
-- Event management
-- Group creation and management
-- Playlist handling
 
 #### Database
 - Uses MySQL for production
